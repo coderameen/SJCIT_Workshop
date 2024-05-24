@@ -21,3 +21,4 @@ print("-------------------")
 l = [{'name': 'Alen', 'age': 30}, {'name': 'bob', 'age': 20}]
 for i in l:
     print(i['age'])
+print("------------")
